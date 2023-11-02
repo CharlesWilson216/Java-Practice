@@ -2,6 +2,7 @@ public class Odds {
 	public static void main(String[] args) {
 		boolean result = allDigitsOdd(135319);
 		System.out.println(result);
+		//comment
 	}
 	public static boolean allDigitsOdd(int num) {
 		
